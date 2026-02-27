@@ -3,6 +3,8 @@ public class PalindromeCheckerApp {
 
         WelcomeMessage.showMessage();
         PalindromeCheck.checkPalindrome();
+        PalindromeStack.checkPalindrome();
+
         PalindromeCharArray.checkPalindrome();
 
         PalindromeQueueStack.checkPalindrome();
