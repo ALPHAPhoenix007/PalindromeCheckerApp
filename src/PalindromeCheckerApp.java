@@ -3,5 +3,5 @@ public class PalindromeCheckerApp {
 
         WelcomeMessage.showMessage();
         PalindromeCheck.checkPalindrome();
-
+        PalindromeReverse.checkPalindrome("level");
     }
