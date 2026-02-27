@@ -3,5 +3,6 @@ public class PalindromeCheckerApp {
 
         WelcomeMessage.showMessage();
         PalindromeCheck.checkPalindrome();
+        PalindromeDeque.checkPalindrome();
 
     }
