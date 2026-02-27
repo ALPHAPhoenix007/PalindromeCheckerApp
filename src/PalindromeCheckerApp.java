@@ -7,5 +7,7 @@ public class PalindromeCheckerApp {
 
         PalindromeQueueStack.checkPalindrome();
         PalindromeDeque.checkPalindrome();
+        PalindromeCharArray.checkPalindrome();
+
 
     }
